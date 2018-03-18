@@ -8,6 +8,6 @@ To Upload Your Folder Project To Github
 5.  Git init 
 6.  Git add * 
 7.  Git commit –m "versi 1.0.0" 
-8.  Git remote add origin http://github.com/acchoblues/APeK.git 
+8.  Git remote add origin yourRepository example (https://github.com/Three-A/HowToUploadYourProjectToGithub)
 9.  Git pull origin master 
 10. Git push origin master 
