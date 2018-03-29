@@ -13,7 +13,7 @@ To Upload Your Folder Project To Github
 10. Git push origin master 
 
 
-Android Studio to Githb
+Android Studio to Github
 1. Sign up and create a GitHub account in www.github.com.
 2. Download git from https://git-scm.com/downloads and install it in your system.
 3. Open the project in android studio and go to File -> Settings -> Version Control -> Git.
