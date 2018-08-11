@@ -26,3 +26,26 @@ Android Studio to Github
 To make commit in Android Studio
 Go to VCS -> Git -> Commit file . Then type a commit message and click on commit button
 
+Best Practice to branch and merge
+
+---------------------------------
+git branch namaBranch             //untuk membuat branch baru
+---------------------------------
+
+---------------------------------
+git checkout namaBranch           //untuk pindah ke branch lain
+---------------------------------
+
+---------------------------------
+git checkout -b myfeature develop //untuk pindah ke branch baru bernama myfeature
+---------------------------------
+
+---------------------------------
+git merge --no-f namaBranch       //untuk merge dari branch yang sudah di develop
+---------------------------------
+
+---------------------------------
+git push origin namaBranch        //setelah merge lalu di push
+---------------------------------
+
+
